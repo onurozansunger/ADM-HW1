@@ -1,2 +1,3 @@
 # ADM-HW1
-HW1 for ADM course
+Solutions and PDF files for HW1 in ADM course.
+I mentioned the problems I got help in solving as comments in the codes.
